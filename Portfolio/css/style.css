@@ -1,0 +1,36 @@
+
+nav {
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+}
+
+nav > a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 1rem 3rem;
+  text-decoration: none;
+  float: right;
+}
+
+.logo {
+  display: inline-block;
+  float: left;
+  width: 3rem;
+  height: 3rem;
+  background-color: black;
+}
+
+header {
+  margin-top: 2rem;
+  margin-left: 12rem;
+  margin-right: 12rem;
+}
+
+.work-image {
+  width: 50rem;
+  height: 20rem;
+  background-color: black;
+
+}
