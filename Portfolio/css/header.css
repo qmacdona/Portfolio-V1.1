@@ -1,0 +1,41 @@
+nav {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 0.9rem;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.nav-item {
+  line-height: 7rem;
+  letter-spacing: 0.1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  text-decoration: none;
+  color: #000000;
+}
+
+.nav-item:hover {
+  opacity: 0.5;
+  transition: 0.5s;
+}
+
+.nav-item-container{
+  display: flex;
+}
+
+body {
+  margin: 0;
+}
+
+.logo {
+  width: 3rem;
+  height: 3rem;
+  padding: 2rem 2rem 2rem 2rem;
+}
+
+.logo-name {
+  padding: 0;
+}
